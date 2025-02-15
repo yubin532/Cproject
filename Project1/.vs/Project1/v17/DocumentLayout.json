@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\yubin\\Cproject\\Project1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\yubin\\yubin532\\Cproject\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05AD3F5D-E537-4971-A11E-5229BAA09044}|Project1.vcxproj|C:\\yubin\\yubin532\\Cproject\\Project1\\5.\uC5F0\uC0B0\uC790.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05AD3F5D-E537-4971-A11E-5229BAA09044}|Project1.vcxproj|solutionrelative:5.\uC5F0\uC0B0\uC790.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.\uC5F0\uC0B0\uC790.c",
+              "DocumentMoniker": "C:\\yubin\\yubin532\\Cproject\\Project1\\5.\uC5F0\uC0B0\uC790.c",
+              "RelativeDocumentMoniker": "5.\uC5F0\uC0B0\uC790.c",
+              "ToolTip": "C:\\yubin\\yubin532\\Cproject\\Project1\\5.\uC5F0\uC0B0\uC790.c",
+              "RelativeToolTip": "5.\uC5F0\uC0B0\uC790.c",
+              "ViewState": "AQIAADsAAAAAAAAAAAA0wFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T01:55:01.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
