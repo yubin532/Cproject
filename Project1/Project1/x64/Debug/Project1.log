@@ -1,32 +1,5 @@
-﻿  16.함수.c
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(20,29): error C2143: 구문 오류: ')'이(가) ',' 앞에 없습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(20,29): error C2143: 구문 오류: ';'이(가) ',' 앞에 없습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(20,34): error C2059: 구문 오류: ')'
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(26,9): error C2143: 구문 오류: ')'이(가) '문자열' 앞에 없습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(26,9): error C2143: 구문 오류: '{'이(가) '문자열' 앞에 없습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(26,9): error C2059: 구문 오류: '문자열'
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(26,13): error C2059: 구문 오류: ')'
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(27,2): error C2059: 구문 오류: '<parameter-list>'
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(38,3): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(39,23): error C2065: 'size': 선언되지 않은 식별자입니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(41,18): error C2065: 'arr': 선언되지 않은 식별자입니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(41,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(41,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(47,7): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(48,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(49,23): error C2065: 'size': 선언되지 않은 식별자입니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(51,18): error C2065: 'arr': 선언되지 않은 식별자입니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(51,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(51,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(56,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(57,3): warning C4013: 'printnumbers'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(62,4): error C2146: 구문 오류: ';'이(가) 'greeting' 식별자 앞에 없습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(64,15): error C2059: 구문 오류: '['
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(65,14): warning C4047: '함수': 'int **'의 간접 참조 수준이 'int [0]'과(와) 다릅니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(65,14): warning C4024: 'printArray': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(66,3): warning C4013: 'printArrayptr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(68,3): warning C4098: 'greeting': 'void' 함수에서 값을 반환하고 있습니다.
-C:\yubin\yubin532\Cproject\Project1\16.함수.c(32,2): error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
-  17.함수 연습문제.c
-C:\yubin\yubin532\Cproject\Project1\17.함수 연습문제.c(1,10): error C1083: 포함 파일을 열 수 없습니다. 'studio.h': No such file or directory
-  코드를 생성하고 있습니다...
+﻿  31. 파일의 내용 입력하는 프로그램.c
+C:\yubin\yubin532\Cproject\Project1\31. 파일의 내용 입력하는 프로그램.c(40,14): error C2059: 구문 오류: '%'
+C:\yubin\yubin532\Cproject\Project1\31. 파일의 내용 입력하는 프로그램.c(40,22): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+C:\yubin\yubin532\Cproject\Project1\31. 파일의 내용 입력하는 프로그램.c(40,24): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\yubin\yubin532\Cproject\Project1\31. 파일의 내용 입력하는 프로그램.c(49,3): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
